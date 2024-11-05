@@ -16,14 +16,17 @@ Education
 
 Work experience
 ======
-* October 2022: Business Intelligence Analyst
+* September 2024: IT Analyst
+  * Serviço Federal de Processamento de Dados (Serpro)
+
+* October 2022 to September 2024: Business Intelligence Analyst
   * Núcleo de Mídia Banco do Brasil (NMBB)
   * Duties include: 
     * analyse performance of digital campaigns in several tools as Google, Facebook, Twitter and LinkedIn
     * automate process and develop scripts of monitoring
     * build/maintain/query databases in Google BigQuery
     * connect and extract data via APIs
-  * Supervisor: Luiz Missio
+  * Manager: Luiz Missio
 
 * December 2021 to September 2022: Data Science Intern
   * Instituto Brasileiro de Pesquisa e Análise de Dados (IBPAD)
