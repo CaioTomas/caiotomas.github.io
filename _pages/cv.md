@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, University of Brasília, 2022
+* MBA in Big Data and Competitive Intelligence, Centro Universitário União das Américas Descomplica, 2024
 <!-- * M.S. in Jekyll, GitHub University, 2014 * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
