@@ -10,16 +10,16 @@ redirect_from:
 
 ### Hi there! My name is Caio Tomás. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am currently a Master's student of Applied Mathematics at the University of Brasília and an Analyst at the Serviço Federal de Processamento de Dados (Serpro).
+I am currently a PhD candidate of Applied Mathematics at the University of Brasília and an Analyst at the Serviço Federal de Processamento de Dados (Serpro).
 
-I'm really passionated about math and science. If you let me, I'll speak hours non stop about these topics!
+I'm really passionate about math and science. If you let me, I'll speak hours non stop about these topics!
 
 I'm interested in Fluid Dynamics/Mechanics, Granular Materials, Data Science and data-driven approaches to applied problems.
 
 Current and previous work
 ======
 
-- 🔭🧲 I'm currently on a research project on the compression of a granular layer composed of repelling magnetic particles, under the orientation of professor Yuri Dumaresq Sobral (here's his [curriculum Lattes](http://lattes.cnpq.br/2148849606092346), [ResearchGate profile](https://www.researchgate.net/profile/Yuri-Sobral) and [website](http://yuri.mat.unb.br/)).
+- 🔭🧲 My master's was focused on numerically simulating the compression of a granular layer composed of repelling magnetic particles, under the orientation of professor Yuri Dumaresq Sobral (here's his [curriculum Lattes](http://lattes.cnpq.br/2148849606092346), [ResearchGate profile](https://www.researchgate.net/profile/Yuri-Sobral) and [website](http://yuri.mat.unb.br/)).
 
 - 🤓 I’m currently working with <img align="center" src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=Python&logoColor=white"> <img align="center" src="https://img.shields.io/badge/R-02569B?style=for-the-badge&logo=R&logoColor=white"> <img align="center" src="https://img.shields.io/badge/TeX-02569B?style=for-the-badge&logo=LaTeX&logoColor=yellow"> <img align="center" src="https://img.shields.io/badge/Fortran-F7DF1E?style=for-the-badge&logo=fortran90&logoColor=black"> <img align="center" src="https://img.shields.io/badge/BigQuery-F7DF1E?style=for-the-badge&logo=bigquery&logoColor=black">
 
