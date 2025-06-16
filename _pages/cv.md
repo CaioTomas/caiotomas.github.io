@@ -20,6 +20,12 @@ Work experience
 ======
 * September 2024: IT Analyst
   * Serviço Federal de Processamento de Dados (Serpro)
+  * Duties include:
+    * act as a bridge between the client and our development and infrastructure teams
+    * provide support and guidance to ensure that client demands are properly addressed
+    * help align technical solutions with public policy goals and government strategies
+    * translating business needs into actionable technical requirements
+    * contribute to the successful delivery of digital solutions for the public sector
 
 * October 2022 to September 2024: Business Intelligence Analyst
   * Núcleo de Mídia Banco do Brasil (NMBB)
