@@ -2,7 +2,7 @@
 title: "Disordering two-dimensional magnet-particle configurations using bidispersity"
 collection: publications
 permalink: /publication/paper_Tsuchikusa
-excerpt: ''
+excerpt: 'In various types of many-particle systems, bidispersity is frequently used to avoid spontaneous ordering in particle configurations. In this study, the relation between bidispersity and disorder degree of particle configurations is investigated.'
 date: 2023-06-07
 venue: 'The Journal of Chemical Physics'
 paperurl: 'https://pubs.aip.org/aip/jcp/article-abstract/158/21/214501/2893722/Disordering-two-dimensional-magnet-particle?redirectedFrom=fulltext'
